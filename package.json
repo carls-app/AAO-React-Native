@@ -84,7 +84,7 @@
     "hamming": "0.0.2",
     "html-entities": "1.2.1",
     "htmlparser2": "3.9.2",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "moment": "2.22.1",
     "moment-timezone": "0.5.16",
     "p-props": "1.2.0",
